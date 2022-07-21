@@ -12,8 +12,10 @@ Thomas High school was turned in to NaN data and the total student count by subt
 When comparing the two charts we see the change in student count, average math score, percentage passing math, percentage reading, and percentage overall passing.
 
 •	How is the school summary affected?
-In the original analysis, Thomas High School started with a 90.95% overall passing rate, which was a concern to the school board as being too high. After calculating the total number of 10ths to 12th grade the student’s overall passing grade changed to 65.08%. That means removing 9th-grade students from the data set had a big impact to change the 90.95 % to 65.08 overall passing percentage rate.  ![per school summary orignal](https://user-images.githubusercontent.com/107454933/180320020-0eeb9790-ce39-406d-9cb4-5561ef02f446.png)
-![per school summary new](https://user-images.githubusercontent.com/107454933/180320050-d82a4bdb-04a9-46cc-a480-1589716c2f82.png)
+In the original analysis, Thomas High School started with a 93.27% passing percentage math, 97.30% passing percentage reading rate and 90.95% overall passing rate, which was a concern to the school board as being too high. After calculating the total number of 10ths to 12th grade the student’s passing percentage math, passing percentage reading and overall passing grade changed to 69.91%, 69.66%, and 65.08% respectivly That means removing 9th-grade students from the data set had a big impact to change the figure of passing percentage rate of Math,reading and overall.
+![per school summary orignal](https://user-images.githubusercontent.com/107454933/180321753-973263e6-adeb-495a-9c02-78dd625d48dc.png)
+
+![per school summary new](https://user-images.githubusercontent.com/107454933/180321716-c324f2c3-a48d-44cd-b597-99c72131ba97.png)
 
 
 
