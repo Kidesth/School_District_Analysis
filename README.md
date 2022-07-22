@@ -21,7 +21,6 @@ When comparing the two charts we see the change in student count, average math s
    
    In the original analysis, Thomas High school ranked 2nd in the suspect with the school board.
    
-
 ![overall score rate by school](https://user-images.githubusercontent.com/107454933/180325088-aa660564-4794-4948-bde0-ab9acd0bb771.png)
 
   After adjusting 9th-grade data Thomas High school’s rank dropped on 8th place.
@@ -34,6 +33,22 @@ In the original analysis, Thomas High school’s 9th-grade average math score wa
 
  ![new1 math score](https://user-images.githubusercontent.com/107454933/180337096-a8b29779-21b3-47f4-b287-25466d4b0708.png)  
  ![reading score](https://user-images.githubusercontent.com/107454933/180336621-4ed8d703-3944-446a-8664-c45d472e6aae.png)
+ 
+- ### Scores by school spending
+  Thomas High school drops in the $630 - $ 644/ students the differences figure belowing
+  ![per school summary orignal](https://user-images.githubusercontent.com/107454933/180345637-e5348cc0-b7de-4d50-94a3-09211282d55a.png)
+  ![per school summary new](https://user-images.githubusercontent.com/107454933/180345684-9e278d92-7c1f-4bce-9e3f-3597307fbbe1.png)
+  
+  - ### scores by scool size
+  Thomas High school size is defined
+![size summary df original](https://user-images.githubusercontent.com/107454933/180346325-fcd251aa-21b2-4df0-a203-5e51eacbb467.png)
+![type summary df orignal](https://user-images.githubusercontent.com/107454933/180346515-17a8984d-5792-4d56-ac89-ae45b5b19b07.png)
+
+
+
+
+  
+
 
 
 
