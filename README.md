@@ -40,13 +40,18 @@ In the original analysis, Thomas High school’s 9th-grade average math score wa
   ![per school summary new](https://user-images.githubusercontent.com/107454933/180345684-9e278d92-7c1f-4bce-9e3f-3597307fbbe1.png)
   
   - ### scores by scool size
-  Thomas High school size is defined
-![size summary df original](https://user-images.githubusercontent.com/107454933/180346325-fcd251aa-21b2-4df0-a203-5e51eacbb467.png)
-![size summary new](https://user-images.githubusercontent.com/107454933/180346970-f2e3babf-cb62-42dd-81df-d9bf6fb5031d.png)
+  Thomas High school size is defined as a medium scool and the 9yh grade impact showing on the figure belowing
+![size summary df original](https://user-images.githubusercontent.com/107454933/180348328-c82f104d-8c5a-4a5a-82f9-54e8386c179f.png)
+![size summary new](https://user-images.githubusercontent.com/107454933/180348373-42326c38-b4b8-4b4e-b881-08e3df4e8f50.png)
 
-![type summary df orignal](https://user-images.githubusercontent.com/107454933/180346515-17a8984d-5792-4d56-ac89-ae45b5b19b07.png)
 
-![type summary new](https://user-images.githubusercontent.com/107454933/180346998-da7e6267-d843-4d40-a12a-b9dd0816c3d2.png)
+- ### Scores by school type
+A Thomas High school is a Charter school type and the orignal charter school rate and new adjested result diffrent showing below.
+
+![type summary df orignal](https://user-images.githubusercontent.com/107454933/180349020-150405b5-7d60-4599-9fe5-7fa286acd2dd.png)
+![type summary new](https://user-images.githubusercontent.com/107454933/180349047-a5748934-fdbd-479f-b163-7f39b6e8d9ee.png)
+
+- ## Summary: Summarize four changes in the updated school district analysis after reading and math scores for the ninth grade at Thomas High School have been replaced with NaNs.
 
 
 
