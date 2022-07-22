@@ -42,8 +42,11 @@ In the original analysis, Thomas High school’s 9th-grade average math score wa
   - ### scores by scool size
   Thomas High school size is defined
 ![size summary df original](https://user-images.githubusercontent.com/107454933/180346325-fcd251aa-21b2-4df0-a203-5e51eacbb467.png)
+![size summary new](https://user-images.githubusercontent.com/107454933/180346970-f2e3babf-cb62-42dd-81df-d9bf6fb5031d.png)
+
 ![type summary df orignal](https://user-images.githubusercontent.com/107454933/180346515-17a8984d-5792-4d56-ac89-ae45b5b19b07.png)
 
+![type summary new](https://user-images.githubusercontent.com/107454933/180346998-da7e6267-d843-4d40-a12a-b9dd0816c3d2.png)
 
 
 
