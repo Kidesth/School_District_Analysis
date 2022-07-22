@@ -26,7 +26,12 @@ When comparing the two charts we see the change in student count, average math s
 
   After adjusting 9th-grade data Thomas High school’s rank dropped on 8th place.
   
-![overall passing rate by school](https://user-images.githubusercontent.com/107454933/180325150-ce439de4-1133-4d0c-a839-6395f4ac2e10.png)
+   ![overall passing rate by school](https://user-images.githubusercontent.com/107454933/180325150-ce439de4-1133-4d0c-a839-6395f4ac2e10.png)
+    
+## - How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
+### Math and reading scores by grade
+In the original analysis, Thomas High school’s 9th-grade average math score was 83.6 and Average reading score was 83.7 and now the scores replace by NaNs the resulting figure is blowing
+   ![reading score](https://user-images.githubusercontent.com/107454933/180336621-4ed8d703-3944-446a-8664-c45d472e6aae.png)
 
 
 
