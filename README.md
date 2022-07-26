@@ -6,14 +6,16 @@ The main analysis focused on the performance of math and reading percentage and 
  
 ### Results
 - #### 	How is the district summary affected?
- 
-![orignal school district analysis](https://user-images.githubusercontent.com/107454933/180311242-605e95f2-f6b1-4211-858a-d5213a72f641.png)
+ ![old school district summary](https://user-images.githubusercontent.com/107454933/180969831-55abeac0-5079-465d-9657-bd161f24bee0.png)
 
-Thomas High school was turned in to NaN data and the total student count by subtracting the number of ninth-grade students in Thomas High School from the total student count. Which recalculated the passing math and passing reading percentages, and the overall passing percentage with the recalculated new total student count.
 
-![new school district anaylsis](https://user-images.githubusercontent.com/107454933/180311168-be9236c0-c00d-49b9-91eb-c1bb06ff385c.png)
+Thomas High school was turned in to NaN data and the total student count by subtracting the number of ninth-grade students in Thomas High School from the total student count. Which recalculated the passing math and passing reading percentages, and the overall passing percentage with the recalculated new total student count
 
-When comparing the two charts we see the change in student count, average math score, percentage passing math, percentage reading, and percentage overall passing.
+![new district summary result](https://user-images.githubusercontent.com/107454933/180969200-9709d490-69e0-4947-81e5-b081b6718304.png)
+
+
+
+When comparing the two charts we see the change sligthly difference on average math score, percentage passing math, percentage reading, and percentage overall passing.
 
 - ####	How is the school summary affected?
  
@@ -43,25 +45,19 @@ In the original analysis, Thomas High school’s 9th-grade average math score wa
  
   ##### Scores by school spending
   Thomas High school drops in the $630 - $ 644/ students the differences figure belowing
- 
- ![per school summary orignal](https://user-images.githubusercontent.com/107454933/180345637-e5348cc0-b7de-4d50-94a3-09211282d55a.png)
-  
-  ![per school summary new](https://user-images.githubusercontent.com/107454933/180345684-9e278d92-7c1f-4bce-9e3f-3597307fbbe1.png)
-  
+ ![spending per school](https://user-images.githubusercontent.com/107454933/180977342-b0ad9f39-f4d1-4d25-a711-28ce443e7fe6.png)
+![spending per school](https://user-images.githubusercontent.com/107454933/180977375-1af3a651-165b-4572-ae1d-e13cdb8b7e63.png)
+
    ##### scores by scool size
   Thomas High school size is defined as a medium scool and the 9yh grade impact showing on the figure belowing
-
-![size summary df original](https://user-images.githubusercontent.com/107454933/180348328-c82f104d-8c5a-4a5a-82f9-54e8386c179f.png)
-
-![size summary new](https://user-images.githubusercontent.com/107454933/180348373-42326c38-b4b8-4b4e-b881-08e3df4e8f50.png)
 
 
    ##### Scores by school type
 A Thomas High school is a Charter school type and the orignal charter school rate and new adjested result diffrent showing below.
 
-![type summary df orignal](https://user-images.githubusercontent.com/107454933/180349020-150405b5-7d60-4599-9fe5-7fa286acd2dd.png)
+![spending by school size](https://user-images.githubusercontent.com/107454933/180978138-3b7ffb5a-eb31-4f2d-ac87-2fc2fe3be907.png)
+![spending by school size](https://user-images.githubusercontent.com/107454933/180978237-9d942beb-a1a9-434d-8be2-ebbaaf0de84a.png)
 
-![type summary new](https://user-images.githubusercontent.com/107454933/180349047-a5748934-fdbd-479f-b163-7f39b6e8d9ee.png)
 
 - ### Summary: Summarize four changes in the updated school district analysis after reading and math scores for the ninth grade at Thomas High School have been replaced with NaNs.
 accoring to adjested  analysis the over all passing rate of Thomas High school Changed on a big difference from 90.94% to 65% and the Thomas High School rate drops from 2nd to 8th in the district of analasis and the avarege passing Math and the Average Reading rate changed and the data of the 9th grade shows NaN in and also the impact shows spending summary result on Thomas High School.
